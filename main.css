@@ -1,0 +1,95 @@
+
+.navbar-nav a:hover {
+  border-bottom: 1.5px solid #E98301;
+  transition: 0.2s;
+}
+
+.navbar{
+background: #252525;
+}
+
+.navbar-dark a{
+  color: #fff;
+
+  font-weight: 300;
+}
+
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://images.unsplash.com/photo-1539389004540-770367e1bccb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2519&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#signup{
+background: #E98301;
+color: black;
+font-size: 1em;
+padding: 1.5%;
+border-radius: 20px;
+text-decoration: none;
+
+}
+
+#signup a:hover{
+
+  background: #AC6101;
+}
+
+
+#homeposts{
+
+padding: 2%;
+border-radius: 3%;
+width: 100%;
+margin-top: 2%;
+}
+
+#imageplay{
+
+width: 60px;
+height: auto;
+}
+
+#loginbox{
+color: white;
+  background: rgba(37, 37, 37, 0.8);
+border-radius: 20px;
+;
+  padding: 2%;
+
+}
+
+#newspage{
+
+background: url('https://images.unsplash.com/photo-1498736297812-3a08021f206f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2271&q=80');
+
+}
+
+#newsbox{
+
+  background: rgba(37, 37, 37, 0.8);
+padding: 2%;
+
+}
+
+#postsbox{
+
+  background: rgba(37, 37, 37, 0.8);
+  padding: 4%;
+  margin-bottom: 5px;
+  border-radius: 10px;
+
+}
+#loginpage{
+
+  background: #E98301;
+  background-image: url(https://images.unsplash.com/photo-1515687652280-bf0bb698562a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80);
+}
+.btn-primary{
+background: #E98301 !important;
+border: none !important;
+}
